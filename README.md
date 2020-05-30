@@ -1,6 +1,6 @@
 # Pokémon card game
 
-### What are Pokémon eactly ?
+### What are Pokémon exactly ?
 
 Well a fun fact is that pokemons are called as pocket monsters in japan. The franchise was created by Satoshi Tajiri in 1995 , and is centered on fictional creatures called "Pokémon" which humans, known as Pokémon Trainers, catch and train to battle each other for sport.
  
