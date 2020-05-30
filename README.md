@@ -1,15 +1,12 @@
-# Pokemon card game
+# Pokémon card game
 
-### What are pokemons eactly ?
+### What are Pokémon eactly ?
 
-well a fun fact is that pokemons are called as pocket monsters in japan 
-The franchise was created by Satoshi Tajiri in 1995 , and is centered on fictional creatures called "Pokémon" , 
-which humans, known as Pokémon Trainers, catch and train to battle each other for sport.
+Well a fun fact is that pokemons are called as pocket monsters in japan. The franchise was created by Satoshi Tajiri in 1995 , and is centered on fictional creatures called "Pokémon" which humans, known as Pokémon Trainers, catch and train to battle each other for sport.
  
 "Gotta Catch 'Em All". is the famous phrase used within the Pokémon universe.
 
-As children we really enjoyed watching pokemon on televison and we stil do .
-There is no age barrier to watching pokemon , playing pokemon console games or pokemon cards 
+As children we really enjoyed watching Pokémon on televison and we stil do. There is no age barrier to watching Pokémon , playing Pokémon console games or Pokémon cards 
 
 so here is a attempt at recreating the pokemon card game 
 
